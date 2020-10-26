@@ -23,7 +23,7 @@
   "author": "luxcem",
   "module": "dist/redux-crudo.esm.js",
   "devDependencies": {
-    "@types/jest": "26.0.14",
+    "@types/jest": "26.0.15",
     "husky": "4.3.0",
     "tsdx": "0.14.0",
     "tslib": "2.0.2",
